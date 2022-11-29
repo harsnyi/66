@@ -1,0 +1,19 @@
+2022-11-23;laci;Kezdo;Nyert ellene!;77;0
+2022-11-23;nbb;Kozepes;Vesztett ellene!;13;85
+2022-11-23;asd213;Kozepes;Nyert ellene!;72;23
+2022-11-23;saddsaasd;Nehez;Vesztett ellene!;61;72
+2022-11-23;asdads;Nehez;Nyert ellene!;67;32
+2022-11-23;jnkjnj;Nehez;Vesztett ellene!;40;73
+2022-11-23;nljsfnjlnfs;Kozepes;Vesztett ellene!;43;69
+2022-11-23;asd;Nehez;Dontetlent jatszott ellene!;57;63
+2022-11-25;adsds;ok;Vesztett ellene!;7;72
+2022-11-25;asd;nehez;Vesztett ellene!;35;68
+2022-11-25;sdasd;nehez;Nyert ellene!;88;7
+2022-11-25;gghfg;nehez;Nyert ellene!;71;20
+2022-11-25;asdasd;nehez;Vesztett ellene!;0;91
+2022-11-25;cicamica;nehez;Vesztett ellene!;25;66
+2022-11-25;ccicamica;nehez;Nyert ellene!;77;34
+2022-11-25;dasodasn;nehez;Vesztett ellene!;19;75
+2022-11-26;sdasd;nehez;Nyert ellene!;76;56
+2022-11-26;asdsaads;nehez;Vesztett ellene!;45;66
+2022-11-27;harsanyi;nehez;Vesztett ellene!;0;72
