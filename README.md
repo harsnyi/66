@@ -1,5 +1,5 @@
 # BMEVIIIAB00 Programozás alapjai 3. házi feladat
-A Snapszer egy igen népszerű magyar kártyajáték, amelyet két játékos játszik egymás ellen. A lényege, hogy 66 pontot gyűjtsenek össze minél hamarabb, és ezt be is jelentsék. Mindkét játékos rendelkezik 5-5 kártyával, minden kártyának van egy állandó értéke. Minden körben mindkét játékos lerak egy-egy kártyát, és a nagyobb értékű kártyával rendelkező játékos pontszámához hozzáadja a két letett kártya értékét. Fontos megjegyezni, hogy a játék részleteiről a leírás csak nagy vonalakban szól, részletesebb információkért érdemes ellátogatni a [linkre](http://www.gyerekjatekokrol.hu/jatekok/snapszer/).
+A 66, más nevén snapszer egy igen népszerű magyar kártyajáték, amelyet két játékos játszik egymás ellen. A lényege, hogy 66 pontot gyűjtsenek össze minél hamarabb, és ezt be is jelentsék. Mindkét játékos rendelkezik 5-5 kártyával, minden kártyának van egy állandó értéke. Minden körben mindkét játékos lerak egy-egy kártyát, és a nagyobb értékű kártyával rendelkező játékos pontszámához hozzáadja a két letett kártya értékét. Fontos megjegyezni, hogy a játék részleteiről a leírás csak nagy vonalakban szól, részletesebb információkért érdemes ellátogatni a [linkre](http://www.gyerekjatekokrol.hu/jatekok/snapszer/).
 
 ## Felépítése
 
